@@ -11,6 +11,15 @@
 ### Tests
 #### PyTest
 #### Snapshottests
+## JS
+### Tests
+#### Jest
+#### Storybook
+### architecture
+#### Atomic Design
 ## Database
 ### Postgres
 ### mongoDB
+## Arhitecture
+### MVC
+### clean architecture
