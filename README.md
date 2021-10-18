@@ -11,6 +11,11 @@
 ### Tests
 #### PyTest
 #### Snapshottests
+### framework
+#### django
+##### drf
+##### profiling
+https://kracekumar.com/post/profiling_django/
 ## JS
 ### typing
 #### TypeScript
