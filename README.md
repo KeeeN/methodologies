@@ -12,13 +12,20 @@
 #### PyTest
 #### Snapshottests
 ## JS
+### typing
+#### TypeScript
+##### training
+* https://github.com/type-challenges/type-challenges
 ### Tests
 #### Jest
 #### Storybook
 ### architecture
 #### Atomic Design
 ## Database
-### Postgres
+### SQL
+#### training
+* https://sqlzoo.net/
+#### Postgres
 ### mongoDB
 ## Arhitecture
 ### MVC
