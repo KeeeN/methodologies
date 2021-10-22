@@ -35,3 +35,5 @@ https://kracekumar.com/post/profiling_django/
 ## Arhitecture
 ### MVC
 ### clean architecture
+hexagonal design
+### domain driven design
