@@ -32,8 +32,11 @@ https://kracekumar.com/post/profiling_django/
 * https://sqlzoo.net/
 #### Postgres
 ### mongoDB
-## Arhitecture
+## Architecture
 ### MVC
 ### clean architecture
 hexagonal design
-### domain driven design
+### Domain driven design
+## Tests
+### coverage
+#### codecov
