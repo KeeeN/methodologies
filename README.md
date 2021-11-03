@@ -8,6 +8,8 @@
 ### CircleCI
 ### AWS/CodePipeline
 ## Python
+### environment
+#### poetry
 ### Tests
 #### PyTest
 #### Snapshottests
@@ -35,8 +37,10 @@ https://kracekumar.com/post/profiling_django/
 ## Architecture
 ### MVC
 ### clean architecture
-hexagonal design
+### hexagonal design
+- https://dev.to/abh1navv/hexagonal-architecture-3ocl
 ### Domain driven design
+https://en.wikipedia.org/wiki/Domain-driven_design
 ## Tests
 ### coverage
 #### codecov
