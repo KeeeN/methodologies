@@ -1,4 +1,8 @@
 # methodologies
+## documentation
+### diagrams
+- mermaid: https://mermaid-js.github.io/mermaid/#/
+- plantUml: https://plantuml.com/fr/
 ## Code versionning
 ### Git
 #### Github
