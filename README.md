@@ -1,4 +1,9 @@
 # methodologies
+## monitoring
+### audience/event tracking
+- matomo
+### bug tracking
+- https://sentry.io/welcome/
 ## documentation
 ### diagrams
 - mermaid: https://mermaid-js.github.io/mermaid/#/
