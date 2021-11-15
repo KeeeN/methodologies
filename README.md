@@ -1,55 +1,70 @@
 # methodologies
+
 ## monitoring
 ### audience/event tracking
-- matomo
+- matomo - https://fr.matomo.org/
+- graphana - https://grafana.com/
 ### bug tracking
-- https://sentry.io/welcome/
+- sentry - https://sentry.io/welcome/
+
 ## documentation
 ### diagrams
 - mermaid: https://mermaid-js.github.io/mermaid/#/
 - plantUml: https://plantuml.com/fr/
-## Code versionning
+
+## code versionning
 ### Git
 #### Github
 #### Gitflow
+
 ## CI/CD
 ### Github/Actions
 ### CircleCI
 ### AWS/CodePipeline
+
+## containerization
+### docker
+### kubernetes
+
 ## Python
 ### environment
-#### poetry
-### Tests
+#### Poetry
+### tests
 #### PyTest
 #### Snapshottests
 ### framework
-#### django
-##### drf
+#### Django
+##### DRF
 ##### profiling
-https://kracekumar.com/post/profiling_django/
+- https://kracekumar.com/post/profiling_django/
+
 ## JS
 ### typing
 #### TypeScript
 ##### training
-* https://github.com/type-challenges/type-challenges
-### Tests
+- https://github.com/type-challenges/type-challenges
+### tests
 #### Jest
 #### Storybook
 ### architecture
 #### Atomic Design
-## Database
+
+## database
 ### SQL
 #### training
-* https://sqlzoo.net/
+- https://sqlzoo.net/
 #### Postgres
-### mongoDB
-## Architecture
+### MongoDB
+
+## Design Patterns
 ### MVC
 ### clean architecture
 ### hexagonal design
 - https://dev.to/abh1navv/hexagonal-architecture-3ocl
-### Domain driven design
+### Domain Driven Design
 https://en.wikipedia.org/wiki/Domain-driven_design
-## Tests
+### Test Driven Development
+
+## tests
 ### coverage
-#### codecov
+#### Codecov
