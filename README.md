@@ -30,8 +30,9 @@
 ### environment
 #### Poetry
 ### tests
-#### PyTest
-#### Snapshottests
+- tests - PyTest
+- snapshot - Snapshottests
+- multi env - tox
 ### framework
 #### Django
 ##### DRF
