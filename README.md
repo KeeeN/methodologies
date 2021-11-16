@@ -27,8 +27,10 @@
 ### kubernetes
 
 ## Python
+### project templates
+- project template instanciator - https://github.com/cookiecutter/cookiecutter
 ### environment
-#### Poetry
+- deps and envs manager - Poetry
 ### tests
 - tests - PyTest
 - snapshot - Snapshottests
@@ -69,3 +71,11 @@ https://en.wikipedia.org/wiki/Domain-driven_design
 ## tests
 ### coverage
 #### Codecov
+
+## Recipes
+### create a FastAPI project
+1. create a github repo and clone it locally -> `git clone {url}`
+2. in the project folder initialize a poetry project -> `poetry init`
+3. use virtualenvs with poetry for local debugging -> `poetry config virtualenvs.create true --local`
+4. install fast and uvicorn -> `poetry add fastapi uvicorn`
+5. 
