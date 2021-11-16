@@ -78,4 +78,5 @@ https://en.wikipedia.org/wiki/Domain-driven_design
 2. in the project folder initialize a poetry project -> `poetry init`
 3. use virtualenvs with poetry for local debugging -> `poetry config virtualenvs.create true --local`
 4. install fast and uvicorn -> `poetry add fastapi uvicorn`
-5. 
+### project templates
+- fullstack FastAPI -> https://github.com/tiangolo/full-stack-fastapi-postgresql
