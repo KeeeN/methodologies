@@ -69,6 +69,8 @@ https://en.wikipedia.org/wiki/Domain-driven_design
 ### Test Driven Development
 
 ## tests
+### performance
+- test/compare performances
 ### coverage
 #### Codecov
 
