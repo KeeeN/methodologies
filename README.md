@@ -78,6 +78,9 @@ https://en.wikipedia.org/wiki/Domain-driven_design
 ### vscode
 #### settings
 #### extensions
+##### HTTP client
+- thunder client -> https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
+- REST client -> https://marketplace.visualstudio.com/items?itemName=humao.rest-client
 
 ## Recipes
 ### create a FastAPI project
