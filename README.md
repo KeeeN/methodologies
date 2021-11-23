@@ -73,6 +73,8 @@ https://en.wikipedia.org/wiki/Domain-driven_design
 - test/compare performances
 ### coverage
 #### Codecov
+### emailing
+- maildev - local emailing server -> https://github.com/maildev/maildev
 
 ## IDE
 ### vscode
