@@ -35,6 +35,7 @@
 - tests - PyTest
 - snapshot - Snapshottests
 - multi env - tox
+- freeze time -> https://github.com/spulec/freezegun
 ### framework
 #### Django
 ##### DRF
