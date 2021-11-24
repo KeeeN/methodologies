@@ -72,6 +72,8 @@ https://en.wikipedia.org/wiki/Domain-driven_design
 ## tests
 ### performance
 - test/compare performances
+- http benchmarking -> https://github.com/mcollina/autocannon
+  - usage : `npx autocannon http://localhost:8888/pdfs`
 ### coverage
 #### Codecov
 ### emailing
