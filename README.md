@@ -21,10 +21,10 @@
 ### Github/Actions
 ### CircleCI
 ### AWS/CodePipeline
-
-## containerization
-### docker
-### kubernetes
+### environment management
+- docker
+- kubernetes
+- nix -> https://nixos.org/
 
 ## Python
 ### project templates
