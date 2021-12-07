@@ -99,3 +99,4 @@ https://en.wikipedia.org/wiki/Domain-driven_design
 6. install pre-commit hook -> `poetry add pre-commit -D`
 ### project templates
 - fullstack FastAPI -> https://github.com/tiangolo/full-stack-fastapi-postgresql
+- fastAPI nano -> https://github.com/rednafi/fastapi-nano
