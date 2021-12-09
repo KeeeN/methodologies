@@ -30,7 +30,8 @@
 ### project templates
 - project template instanciator - https://github.com/cookiecutter/cookiecutter
 ### environment
-- deps and envs manager - Poetry
+- deps and envs manager - Poetry -> https://github.com/python-poetry/poetry
+- deps / no env needed - PDM -> https://github.com/pdm-project/pdm/
 ### tests
 - tests - PyTest
 - snapshot - Snapshottests
