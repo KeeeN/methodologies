@@ -85,6 +85,12 @@ https://en.wikipedia.org/wiki/Domain-driven_design
 ### emailing
 - maildev - local emailing server -> https://github.com/maildev/maildev
 
+## terminal
+- zsh
+  - oh-my-zsh
+  - fzf-tab
+  - zhc-autosuggetions
+
 ## IDE
 ### vscode
 #### settings
