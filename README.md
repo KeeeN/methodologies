@@ -90,6 +90,7 @@ https://en.wikipedia.org/wiki/Domain-driven_design
   - oh-my-zsh
   - fzf-tab
   - zhc-autosuggetions
+- fig -> https://fig.io/
 
 ## IDE
 ### vscode
