@@ -84,6 +84,9 @@ https://en.wikipedia.org/wiki/Domain-driven_design
 #### Codecov
 ### emailing
 - maildev - local emailing server -> https://github.com/maildev/maildev
+### tunneling
+- ngroc -> redirect url to localhost
+- https://webhook.site/ -> generate a webhook url for tests
 
 ## terminal
 - zsh
