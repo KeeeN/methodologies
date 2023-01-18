@@ -66,6 +66,10 @@
 ### DBaaAPI
 - https://postgrest.org/
 
+## network
+### HTTP
+- https://www.baeldung.com/cs/http-versions
+
 ## data emgineering
 ### solutions
 - https://posthog.com/
