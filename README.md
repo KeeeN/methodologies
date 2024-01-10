@@ -3,7 +3,7 @@
 ## monitoring
 ### audience/event tracking
 - matomo - https://fr.matomo.org/
-- graphana - https://grafana.com/
+- grafana - https://grafana.com/
 ### bug tracking
 - sentry - https://sentry.io/welcome/
 
