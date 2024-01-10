@@ -27,7 +27,7 @@
 ### environment management
 - docker
 - kubernetes
-- nix -> https://nixos.org/
+- nx -> https://nx.dev/
 
 ## Python
 ### project templates
